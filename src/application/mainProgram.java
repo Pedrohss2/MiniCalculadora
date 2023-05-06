@@ -15,7 +15,7 @@ public class mainProgram {
         int opcao = sc.nextInt();
 
         double num1, num2;
-        while (opcao != 6){
+        while (opcao != 5){
             System.out.println("enter com um numero");
             num1 = sc.nextDouble();
             System.out.println("Enter com outro numero");
