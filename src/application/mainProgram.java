@@ -41,7 +41,6 @@ public class mainProgram {
             System.out.println("[1] - Soma, [2] - Substração, [3] - Multiplicação, [4] - Divisão, [5] sair");
             opcao = sc.nextInt();
         }
-
-
+        sc.close();
     }
 }
