@@ -17,7 +17,7 @@ public class Calculator {
     public double getNumberTwo(){
         return numberTwo;
     }
-    //----------------------------------------------//
+    //------------------------------------------//
     public double soma(){
         return getNumberOne() + getNumberTwo();
     }
